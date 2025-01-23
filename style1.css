@@ -1,0 +1,86 @@
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+span {
+    color: #22D4FD;
+}
+
+.wrapper {
+    width: 410px;
+    height: 60%;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	background: #000;
+}
+
+.wrapper h1 {
+    text-align: left;
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Century gothic';
+    font-weight: 500;
+    letter-spacing: 1.2px;
+}
+
+.wrapper p {
+    text-align: justify;
+    position: absolute;
+    font-size: 16px;
+    font-family: 'Century gothic';
+    font-weight: 500;
+    line-height: 130%;
+    top: 31%;
+}
+
+.wrapper .a1 a {
+    width: 154px;
+	background: #22D4FD;
+    position: absolute;
+    top: 61%;
+
+	display: inline-block;
+	padding: 14px;
+	border-radius: 12px;
+
+    color: #000;
+    text-align: center;
+	font-size: 16px;
+	font-family: 'Century Gothic';
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-decoration: none;
+}
+
+.wrapper .a2 a {
+    width: 154px;
+	background: #22D4FD;
+    position: absolute;
+    top: 61%;
+    left: 55%;
+
+	display: inline-block;
+	padding: 14px;
+	border-radius: 12px;
+
+    color: #000;
+    text-align: center;
+	font-size: 16px;
+	font-family: 'Century Gothic';
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-decoration: none;
+}
+
+img {
+    width: 444px;
+    position: absolute;
+    top: 27%;
+	left: 53%;
+    
+    border-radius: 10px;
+    border: 10px solid #000;
+    outline: 1.5px solid #22D4FD;
+}
